@@ -14,6 +14,7 @@ namespace Course
             string teste = "";
             teste = "A";
 
+
             p = new Point();
 
             Console.WriteLine(p);
