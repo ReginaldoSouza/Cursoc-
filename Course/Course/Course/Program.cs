@@ -14,6 +14,7 @@ namespace Course
             string teste = "";
             teste = "A";
 
+            var x = "";
 
             p = new Point();
 
