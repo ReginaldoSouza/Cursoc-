@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7luVavFGcotgYUSbBd8utuoO5Hlk1hjXqVTIMlKFHqcEwUVqxx+ir/P7SIdRYKiQ2n5loojeiMqjZmpoc3c0bw==",
+  "dgSpecHash": "WP6zA4zK7pPaaVnWEG5K29DnEVgzSXdJ4YAwwf8g2TJsOIHDtJqgKZsFdl4WLbnKhhdbrGL97zr6ySjXZpobBQ==",
   "success": true,
-  "projectFilePath": "C:\\CursoCSharp\\Course\\Course\\Course\\Course.csproj",
+  "projectFilePath": "C:\\CursoCSharp\\Cursoc-\\Course\\Course\\Course\\Course.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Regis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
     "C:\\Users\\Regis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",

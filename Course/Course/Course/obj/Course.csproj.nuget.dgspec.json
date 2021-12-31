@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CursoCSharp\\Course\\Course\\Course\\Course.csproj": {}
+    "C:\\CursoCSharp\\Cursoc-\\Course\\Course\\Course\\Course.csproj": {}
   },
   "projects": {
-    "C:\\CursoCSharp\\Course\\Course\\Course\\Course.csproj": {
+    "C:\\CursoCSharp\\Cursoc-\\Course\\Course\\Course\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CursoCSharp\\Course\\Course\\Course\\Course.csproj",
+        "projectUniqueName": "C:\\CursoCSharp\\Cursoc-\\Course\\Course\\Course\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "C:\\CursoCSharp\\Course\\Course\\Course\\Course.csproj",
+        "projectPath": "C:\\CursoCSharp\\Cursoc-\\Course\\Course\\Course\\Course.csproj",
         "packagesPath": "C:\\Users\\Regis\\.nuget\\packages\\",
-        "outputPath": "C:\\CursoCSharp\\Course\\Course\\Course\\obj\\",
+        "outputPath": "C:\\CursoCSharp\\Cursoc-\\Course\\Course\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Regis\\AppData\\Roaming\\NuGet\\NuGet.Config",

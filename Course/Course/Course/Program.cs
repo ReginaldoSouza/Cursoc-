@@ -16,6 +16,8 @@ namespace Course
 
             var x = "";
 
+            var po = "";
+
             p = new Point();
 
             Console.WriteLine(p);
