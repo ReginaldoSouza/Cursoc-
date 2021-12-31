@@ -20,6 +20,8 @@ namespace Course
 
             Console.WriteLine(p);
 
+            var regis = "Boa Tarde";
+
         }
     }
 }
