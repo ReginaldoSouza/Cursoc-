@@ -11,6 +11,8 @@ namespace Course
             p.y = 20 ;
 
             Console.WriteLine(p);
+            string teste = "";
+            teste = "A";
 
             p = new Point();
 
